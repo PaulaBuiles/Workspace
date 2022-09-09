@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Workspace.iml" filepath="$PROJECT_DIR$/.idea/Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactosAgenda/contactosAgenda.iml" filepath="$PROJECT_DIR$/contactosAgenda/contactosAgenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio1Corte2/ejercicio1Corte2.iml" filepath="$PROJECT_DIR$/ejercicio1Corte2/ejercicio1Corte2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstProyect/firstProyect.iml" filepath="$PROJECT_DIR$/firstProyect/firstProyect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstProyect1/firstProyect1.iml" filepath="$PROJECT_DIR$/firstProyect1/firstProyect1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primer_proyecto/primer_proyecto.iml" filepath="$PROJECT_DIR$/primer_proyecto/primer_proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyectoCursos/proyectoCursos.iml" filepath="$PROJECT_DIR$/proyectoCursos/proyectoCursos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tallerMatrices/tallerMatrices.iml" filepath="$PROJECT_DIR$/tallerMatrices/tallerMatrices.iml" />
+    </modules>
+  </component>
+</project>
